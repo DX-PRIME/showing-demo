@@ -1,4 +1,4 @@
 # showing-demo
 this is my first git repository
 <br>
-author-Dhitiraj Dekaboruah
+author-Dhitiraj (learning github)
